@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Computer+Science+Graduate;Aspiring+Software+Developer;Full+Stack+Developer+in+Progress;Building+Projects+%7C+Learning+Every+Day" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Build-Learn-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Code-Build%20%7C%20Learn-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Open%20to-Learning-06B6D4?style=for-the-badge" />
 </p>
 
