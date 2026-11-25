@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Hey there, I'm Kalaiselvi!
+#  Hey there, I'm Kalaiselvi!
 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Computer+Science+Graduate;Aspiring+Software+Developer;Full+Stack+Developer+in+Progress;Building+Projects+%7C+Learning+Every+Day" />
@@ -10,37 +10,37 @@
 
 ---
 
-## 🌟 About Me
+##  About Me
 
-- 🎓 Computer Science Engineering Graduate
-- 💻 Interested in Software Development and Full Stack Development
-- 🌱 Currently strengthening my skills in Python, React, SQL and Backend Development
-- 🚀 Love turning ideas into practical applications
-- 🎯 Passionate about learning new technologies and building real-world projects
+- Computer Science Engineering Graduate
+- Interested in Software Development and Full Stack Development
+- Currently strengthening my skills in Python, React, SQL and Backend Development
+- Love turning ideas into practical applications
+- Passionate about learning new technologies and building real-world projects
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
-### 💻 Programming Languages
+###  Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,js" />
 </p>
 
-### 🎨 Frontend Development
+### Frontend Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,react" />
 </p>
 
-### ⚙️ Backend & Database
+###  Backend & Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 
-### 🛠️ Tools & Platforms
+###  Tools & Platforms
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,aws" />
@@ -53,23 +53,35 @@
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="YOUR_FEEDBACK_GITHUB_LINK">
-    <img src="https://img.shields.io/badge/📝_Feedback_Collection_System-8B5CF6?style=for-the-badge" />
+  <a href="https://github.com/KalaiselviS27/Chat_web_application">
+    <img src="https://img.shields.io/badge/💬_Chat_Web_Application-8B5CF6?style=for-the-badge" />
   </a>
-  <a href="YOUR_HARRY_POTTER_GITHUB_LINK">
-    <img src="https://img.shields.io/badge/⚡_Harry_Potter_React_App-6366F1?style=for-the-badge" />
+  <a href="https://github.com/KalaiselviS27/feedback_system">
+    <img src="https://img.shields.io/badge/📝_Feedback_System-6366F1?style=for-the-badge" />
   </a>
 </p>
 
 <p align="center">
-  <a href="YOUR_HOSPITAL_GITHUB_LINK">
+  <a href="https://github.com/KalaiselviS27/hospital_management_sys">
     <img src="https://img.shields.io/badge/🏥_Hospital_Management-06B6D4?style=for-the-badge" />
   </a>
-  
+  <a href="https://github.com/KalaiselviS27/harry-potter-webpage">
+    <img src="https://img.shields.io/badge/⚡_Harry_Potter_React-8B5CF6?style=for-the-badge" />
+  </a>
 </p>
 
-*Click a project to explore its source code and implementation.*
----
+<p align="center">
+  <a href="https://github.com/KalaiselviS27/depignite">
+    <img src="https://img.shields.io/badge/🎯_DeptIgnite-6366F1?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/KalaiselviS27/portfolio">
+    <img src="https://img.shields.io/badge/🌐_My_Portfolio-06B6D4?style=for-the-badge" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Explore my repositories to see what I've been building!</i>
+</p>
 
 ## 📊 GitHub Statistics
 
