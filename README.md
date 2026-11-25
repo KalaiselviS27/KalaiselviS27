@@ -1,4 +1,7 @@
 # 👩🏻‍💻 Hey there, I'm Kalaiselvi!
+<p align="center">
+  <img src="github-banner.png" width="100%" />
+</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Computer+Science+Graduate;Aspiring+Software+Developer;Full+Stack+Developer+in+Progress;Building+Projects+%7C+Learning+Every+Day" />
 
