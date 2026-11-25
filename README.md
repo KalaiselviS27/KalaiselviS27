@@ -1,7 +1,5 @@
 # 👩🏻‍💻 Hey there, I'm Kalaiselvi!
-<p align="center">
-  <img src="github-banner.png" width="100%" />
-</p>
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Computer+Science+Graduate;Aspiring+Software+Developer;Full+Stack+Developer+in+Progress;Building+Projects+%7C+Learning+Every+Day" />
 
@@ -50,15 +48,27 @@
 
 ---
 
+
+
 ## 🚀 Featured Projects
 
-| Project | Description | Technologies |
-|---|---|---|
-| 📝 Feedback Collection System | Collect and manage user feedback | HTML, CSS, JavaScript, Node.js, MongoDB |
-| ⚡ Harry Potter React App | Interactive Harry Potter themed application | React, JavaScript, CSS |
-| 🏥 Hospital Management System | Hospital data management application | Java, JavaFX, MySQL |
-| 🧪 Selenium Automation | Automated web application testing | Python, Selenium |
+<p align="center">
+  <a href="YOUR_FEEDBACK_GITHUB_LINK">
+    <img src="https://img.shields.io/badge/📝_Feedback_Collection_System-8B5CF6?style=for-the-badge" />
+  </a>
+  <a href="YOUR_HARRY_POTTER_GITHUB_LINK">
+    <img src="https://img.shields.io/badge/⚡_Harry_Potter_React_App-6366F1?style=for-the-badge" />
+  </a>
+</p>
 
+<p align="center">
+  <a href="YOUR_HOSPITAL_GITHUB_LINK">
+    <img src="https://img.shields.io/badge/🏥_Hospital_Management-06B6D4?style=for-the-badge" />
+  </a>
+  
+</p>
+
+*Click a project to explore its source code and implementation.*
 ---
 
 ## 📊 GitHub Statistics
